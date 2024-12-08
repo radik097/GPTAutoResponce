@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         ChatGPT Auto Conversation
-// @namespace    https://github.com/your-repo
+// @namespace    https://github.com/radik097/GPTAutoResponce/
 // @version      1.1
 // @description  Automatically continue conversation with ChatGPT, generating new questions based on previous responses.
-// @author       Your Name
+// @author       radik097
 // @match        *://chat.openai.com/*
 // @match        *:chatgpt.com/*
 // @require      https://cdn.jsdelivr.net/npm/@kudoai/chatgpt.js@3.3.5/dist/chatgpt.min.js
